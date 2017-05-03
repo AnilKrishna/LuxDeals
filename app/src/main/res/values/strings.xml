@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lux Deals</string>
+    <string name="search_hint">Search</string>
+    <string name="detail_description">Description</string>
+    <string name="actual_price">Actual Price</string>
+    <string name="deal_price">Deal Price</string>
+    <string name="dollar">&#36;</string>
+</resources>
